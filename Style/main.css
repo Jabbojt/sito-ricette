@@ -1,0 +1,83 @@
+/*****commento******/
+
+body {
+	font-family: corbel, arial, elvetica;
+}
+/************* BLOCCHI COLORATI
+h1{
+	font-size: 36px;
+	background-color: #f8c172;
+	padding: 30px;
+	padding: 0 0 5px 0 ;
+	border: 3px #60aaf5 solid;
+	width: 400px;
+
+}
+h2{
+	background-color: #f8c172;
+	padding: 30px;
+	padding: 30px 20px 5px 5px ;
+	border: 3px #60aaf5 solid;
+	width: 400px;
+	margin: 0 auto;
+***********/
+}
+
+
+
+a {
+	color: #f8c172;
+}
+
+/******header******/
+
+#header {
+
+background-color: #b3caed;
+}
+
+h1{	
+	font-size: 36px;
+	margin: 0;
+	text-align: center ; 
+	padding: 15px 0 0 0
+	color: #ffffff;
+	text-transform: uppercase;
+}
+
+h2{	
+	font-size: 36px;
+	margin: 0;
+	text-align: center ; 
+	margin: 0;
+	color: #ffffff;
+}
+
+#nav {
+ background-color: #5374a6;
+ text-align: center;
+ list-style-type: none;
+}
+#nav li {
+	display: inline-block;
+	padding: 6px 8px 6px 8px;
+
+}
+#nav li a {
+	color: #ffffff;
+}
+
+#nav li:hover {
+	background-color: #b3caed;
+}
+/******content******/
+
+#content {
+	width: 600px;
+	margin: 30px auto;
+
+}
+
+#content h4 {
+	border-bottom: #b3caed solid 3px;
+}
